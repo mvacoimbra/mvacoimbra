@@ -6,8 +6,8 @@
 ##
 <div align="center">
 	<a href="https://github.com/mvacoimbra">
-	<img height="200em" src="https://github-readme-stats.vercel.app/api?username=mvacoimbra&show_icons=true&theme=transparent&hide_border=true&title_color=05E100&text_color=EAF2EF&icon_color=05E100&custom_title=GitHub-Status">
-	<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvacoimbra&layout=compact&theme=transparent&hide_border=true&title_color=05E100&text_color=EAF2EF">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mvacoimbra&show_icons=true&theme=transparent&hide_border=true&title_color=05E100&text_color=EAF2EF&icon_color=05E100&custom_title=GitHub-Status">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvacoimbra&layout=compact&theme=transparent&hide_border=true&title_color=05E100&text_color=EAF2EF">
 </div>
 
 ##
