@@ -1,10 +1,10 @@
 
-# console.log("Hello! I'm Marcos");
+# // Hello! I'm Marcos
 
 ### I'm a fullstack developer under training, learning every day about solving problems.
 
-<div align="center" width="50%">
-loremsalkfjaslkfjaslkfhjaslkjfhjaslkjfnjhaslkfjaslkjflkasjflkasjflaskjflkasjflaskjfsalkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkksasssssssssssssssssssssssssssssssssssssssssssssss.
+<div align="center">
+U+1F600
 <div/>
 
 <!--
