@@ -1,7 +1,14 @@
+
 # console.log("Hello! I'm Marcos");
+
 ### I'm a fullstack developer under training, learning every day about solving problems.
 
+<div align="center" width="50%">
+loremsalkfjaslkfjaslkfhjaslkjfhjaslkjfnjhaslkfjaslkjflkasjflkasjflaskjflkasjflaskjfsalkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkksasssssssssssssssssssssssssssssssssssssssssssssss.
+<div/>
+
 <!--
+
 **mvacoimbra/mvacoimbra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+>
