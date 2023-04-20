@@ -4,7 +4,7 @@
 ### I'm a fullstack developer under training, learning every day about solving problems.
 
 <div align="center">
-U+1F600
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50px" height="50px"/>
 <div/>
 
 <!--
