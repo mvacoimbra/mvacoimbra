@@ -1,5 +1,5 @@
 <div align="center">
-	<h1>console.log("Hello World!👋")</h1>
+	<h1>console.log("Hello World!👋");</h1>
 	<p>I'm a fullstack developer under training, learning every day about solving problems.</p>
 </div>
 
