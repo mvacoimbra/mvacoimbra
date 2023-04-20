@@ -1,4 +1,5 @@
-### Hi there 👋
+# console.log("Hello! I'm Marcos");
+### I'm a fullstack developer under training, learning every day about solving problems.
 
 <!--
 **mvacoimbra/mvacoimbra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
