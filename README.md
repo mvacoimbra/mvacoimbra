@@ -1,6 +1,9 @@
+<div align="left">
+	<strong>About:</strong>
+</div>
 <div align="center">
-	<h1>console.log("Hello World!👋");</h1>
-	<p>I'm a fullstack developer under training, learning every day about solving problems.</p>
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=05E100&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=console.log(%22Hello+World!%E2%9C%8C%22)">
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=B5B5B5&center=true&vCenter=true&multiline=true&repeat=false&width=1100&lines=I'm+a+fullstack+developer+under+training%2C+learning+every+day+about+solving+problems.">
 </div>
 
 ##
@@ -36,4 +39,9 @@
 	<a href="https://t.me/+5562996194128" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 	<a href="https://wa.me/5562996194128" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 	<a href="https://mvacoimbra-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+</div>
+
+##
+<div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=15000&pause=2000&color=05E100&center=true&vCenter=true&multiline=true&width=1100&lines=%3E+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%C2%AF%5C_(%E3%83%84)_%2F%C2%AF">
 </div>
