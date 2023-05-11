@@ -1,9 +1,11 @@
 <div align="left">
 	<strong>About:</strong>
 </div>
+
 <div align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=05E100&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=console.log(%22Hello+World!%E2%9C%8C%22)">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=B5B5B5&center=true&vCenter=true&multiline=true&repeat=false&width=1100&lines=I'm+a+fullstack+developer+under+training%2C+learning+every+day+about+solving+problems.">
+	<a href="#">
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=5000&color=05E100&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=console.log(%22Hello+World!%E2%9C%8C%22)">
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=5000&color=B5B5B5&center=true&vCenter=true&multiline=true&repeat=false&width=1100&lines=I'm+a+fullstack+developer+under+training%2C+learning+every+day+about+solving+problems.">
 </div>
 
 ##
