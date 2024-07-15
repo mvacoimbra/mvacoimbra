@@ -5,7 +5,7 @@
 <div align="center">
 	<a href="#">
 	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=5000&color=05E100&width=435&separator=%3C&lines=console.log(%22%CE%BB+%CE%BB+%CE%BB+%F0%9F%96%96%22);">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=30000&color=B5B5B5&center=true&vCenter=true&multiline=true&repeat=false&width=1100&lines=I'm+a+frond-end+developer+solving+puzzles+everyday.">
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=30000&color=B5B5B5&center=true&vCenter=true&multiline=true&repeat=false&width=1100&lines=I'm+a+developer+solving+puzzles+everyday.">
 </div>
 
 ##
