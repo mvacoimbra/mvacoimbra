@@ -44,9 +44,3 @@
 	<a href="https://wa.me/5562996194128" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 	<a href="https://mvacoimbra.dev.br/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </div>
-
-##
-<div align="center">
-	<a href="#">
-	<img align="center" src="https://api.roadmap.sh/v1-badge/tall/64cc037a0d755ccbebd71714?variant=dark&roadmaps=full-stack">
-</div>
